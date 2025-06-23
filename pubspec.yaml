@@ -1,0 +1,11 @@
+name: flutter_fitness_app
+description: Modern fitness app fetching exercises from an API
+publish_to: 'none'
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.5
+  flutter_svg: ^1.1.6
+  cached_network_image: ^3.2.3
